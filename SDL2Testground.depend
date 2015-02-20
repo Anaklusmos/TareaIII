@@ -557,13 +557,16 @@
 	<SDL2/SDL_image.h>
 	<iostream>
 
-1423248703 source:/home/turupawn/Projects/Clases/Progra3/SDL2TestSimple-master/main.cpp
+1423251830 source:/home/turupawn/Projects/Clases/Progra3/SDL2TestSimple-master/main.cpp
 	<SDL2/SDL.h>
 	<SDL2/SDL_image.h>
 	<iostream>
 	<vector>
+	<list>
 	"Sho.h"
 	"EnemigoAzul.h"
+	"EnemigoVerde.h"
+	"EnemigoRojo.h"
 
 1422648139 /home/turupawn/Projects/Clases/Progra3/SDL2TestSimple-master/Sho.h
 	<SDL2/SDL.h>
@@ -573,10 +576,10 @@
 1422648136 source:/home/turupawn/Projects/Clases/Progra3/SDL2TestSimple-master/Sho.cpp
 	"Sho.h"
 
-1423248618 source:/home/turupawn/Projects/Clases/Progra3/SDL2TestSimple-master/Enemigo.cpp
+1423849494 source:/home/turupawn/Projects/Clases/Progra3/SDL2TestSimple-master/Enemigo.cpp
 	"Enemigo.h"
 
-1423248593 /home/turupawn/Projects/Clases/Progra3/SDL2TestSimple-master/Enemigo.h
+1423850737 /home/turupawn/Projects/Clases/Progra3/SDL2TestSimple-master/Enemigo.h
 	<SDL2/SDL.h>
 	<SDL2/SDL_image.h>
 	<vector>
@@ -584,48 +587,67 @@
 1423248725 /home/turupawn/Projects/Clases/Progra3/SDL2TestSimple-master/EnemigoAzul.h
 	"Enemigo.h"
 
-1423851906 source:c:\users\omar\desktop\nueva carpeta (2)\enemigo.cpp
-	"Enemigo.h"
-
-1423851906 c:\users\omar\desktop\nueva carpeta (2)\enemigo.h
-	<SDL.h>
-	<SDL_image.h>
-	<vector>
-
-1423251811 source:c:\users\omar\desktop\nueva carpeta (2)\enemigoazul.cpp
+1423849438 source:/home/turupawn/Projects/Clases/Progra3/SDL2TestSimple-master/EnemigoAzul.cpp
 	"EnemigoAzul.h"
 
-1423242302 c:\users\omar\desktop\nueva carpeta (2)\enemigoazul.h
+1423849448 source:/home/turupawn/Projects/Clases/Progra3/SDL2TestSimple-master/EnemigoRojo.cpp
+	"EnemigoRojo.h"
+
+1423250451 /home/turupawn/Projects/Clases/Progra3/SDL2TestSimple-master/EnemigoRojo.h
 	"Enemigo.h"
 
-1423856400 source:c:\users\omar\desktop\nueva carpeta (2)\sho.cpp
+1423849449 source:/home/turupawn/Projects/Clases/Progra3/SDL2TestSimple-master/EnemigoVerde.cpp
+	"EnemigoVerde.h"
+
+1423250236 /home/turupawn/Projects/Clases/Progra3/SDL2TestSimple-master/EnemigoVerde.h
+	"Enemigo.h"
+
+1423852574 source:c:\users\omar\desktop\beatemup-mastera\enemigo.cpp
+	"Enemigo.h"
+
+1423852564 c:\users\omar\desktop\beatemup-mastera\enemigo.h
+	"Personaje.h"
+
+1423852179 source:c:\users\omar\desktop\beatemup-mastera\enemigoazul.cpp
+	"EnemigoAzul.h"
+
+1423844710 c:\users\omar\desktop\beatemup-mastera\enemigoazul.h
+	"Enemigo.h"
+
+1423852184 source:c:\users\omar\desktop\beatemup-mastera\enemigorojo.cpp
+	"EnemigoRojo.h"
+
+1423844710 c:\users\omar\desktop\beatemup-mastera\enemigorojo.h
+	"Enemigo.h"
+
+1423852188 source:c:\users\omar\desktop\beatemup-mastera\enemigoverde.cpp
+	"EnemigoVerde.h"
+
+1423844710 c:\users\omar\desktop\beatemup-mastera\enemigoverde.h
+	"Enemigo.h"
+
+1424449537 source:c:\users\omar\desktop\beatemup-mastera\sho.cpp
 	"Sho.h"
 
-1423856736 c:\users\omar\desktop\nueva carpeta (2)\sho.h
-	<SDL.h>
-	<SDL_image.h>
-	<vector>
+1424451194 c:\users\omar\desktop\beatemup-mastera\sho.h
+	"Personaje.h"
 
-1423849215 source:c:\users\omar\desktop\nueva carpeta (2)\main.cpp
+1424449050 source:c:\users\omar\desktop\beatemup-mastera\main.cpp
 	<SDL.h>
 	<SDL_image.h>
 	<iostream>
 	<vector>
+	<list>
 	"Sho.h"
 	"EnemigoAzul.h"
 	"EnemigoVerde.h"
 	"EnemigoRojo.h"
-	<list>
 
-1423250564 c:\users\omar\desktop\nueva carpeta (2)\enemigoverde.h
-	"Enemigo.h"
+1423852564 c:\users\omar\desktop\beatemup-mastera\personaje.h
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
 
-1423252158 source:c:\users\omar\desktop\nueva carpeta (2)\enemigoverde.cpp
-	"EnemigoVerde.h"
-
-1423251811 source:c:\users\omar\desktop\nueva carpeta (2)\enemigorojo.cpp
-	"EnemigoRojo.h"
-
-1423250801 c:\users\omar\desktop\nueva carpeta (2)\enemigorojo.h
-	"Enemigo.h"
+1423852564 source:c:\users\omar\desktop\beatemup-mastera\personaje.cpp
+	"Personaje.h"
 

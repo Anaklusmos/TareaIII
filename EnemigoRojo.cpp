@@ -8,20 +8,22 @@ EnemigoRojo::EnemigoRojo(SDL_Renderer* renderer)
     texturas.push_back(IMG_LoadTexture(renderer,"EnemigoRojo/standing/4.png"));
 
     SDL_QueryTexture(texturas[0], NULL, NULL, &rect.w, &rect.h);
-    rect.x = 200;
+    rect.x = 750;
     rect.y = 250;
 
     frame = 0;
-    animacion_enemigo = 0;
-    //ctor
+    animacion = 0;
+
+    hitbox_azul = IMG_LoadTexture(renderer,"hitbox/azul.png");
+    hitbox_roja = IMG_LoadTexture(renderer,"hitbox/roja.png");
 }
 
 EnemigoRojo::~EnemigoRojo()
 {
-    rect.x--;
     //dtor
 }
 
 void EnemigoRojo::act()
 {
+    rect.x--;
 }
